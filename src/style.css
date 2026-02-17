@@ -2,4 +2,17 @@
 
 body{
     background: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+    height: 200px;
+    
+}
+
+p{
+    font-size: 50px;
 }
